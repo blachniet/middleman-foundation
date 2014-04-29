@@ -77,3 +77,7 @@ Then, update `layouts.erb` to reference your new `all.js` and remove the old jav
 
     <!-- source/layouts/layout.erb -->
     <%= javascript_include_tag  "all" %>
+
+## Serve ##
+
+You're all ready to go. Launch `middleman server` and start building!
