@@ -1,0 +1,527 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"get",
+				"get_snapshots_in_range"
+			],
+			[
+				"first",
+				"firstSnapshot"
+			],
+			[
+				"las",
+				"lastSnapshot"
+			],
+			[
+				"border-bott",
+				"border-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"convert to ",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"word ",
+				"Word Wrap: Toggle"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/BrianLachniet/Developer/Learn/mid/source/stylesheets/app.css.scss",
+		"/Users/BrianLachniet/Developer/Learn/mid/config.rb",
+		"/Users/BrianLachniet/Developer/Learn/mid/source/layouts/layout.erb",
+		"/Users/BrianLachniet/Developer/Learn/mid/source/javascripts/all.js",
+		"/Users/BrianLachniet/Developer/Learn/mid/source/stylesheets/all.css",
+		"/Users/BrianLachniet/Developer/rivercityfloor.com/source/contact.html.markdown",
+		"/Users/BrianLachniet/Developer/rivercityfloor.com/source/faq.html.markdown",
+		"/Users/BrianLachniet/Developer/rivercityfloor.com/source/css/main.css.scss",
+		"/Users/BrianLachniet/Developer/rivercityfloor.com/source/index.html.markdown",
+		"/Users/BrianLachniet/Developer/rivercityfloor.com/source/sanding.html.markdown",
+		"/Users/BrianLachniet/Developer/rivercityfloor.com/source/installation.html.markdown",
+		"/Users/BrianLachniet/Developer/rivercityfloor.com/source/js/main.js",
+		"/Users/BrianLachniet/Developer/rivercityfloor.com/source/LICENSE.md",
+		"/Users/BrianLachniet/Developer/rivercityfloor.com/source/css/aftercare.html.markdown",
+		"/Users/BrianLachniet/Developer/rivercityfloor.com/config.rb",
+		"/Users/BrianLachniet/Downloads/foundation-5.2.2/index.html",
+		"/Users/BrianLachniet/Developer/rivercityfloor.com/source/layouts/main.css.scss",
+		"/Users/BrianLachniet/Developer/rivercityfloor.com/source/css/main.css",
+		"/Users/BrianLachniet/Developer/rivercityfloor.com/source/index.html.erb",
+		"/Users/BrianLachniet/Developer/rivercityfloor.com/source/js/plugins.js",
+		"/Users/BrianLachniet/Developer/rivercityfloor.com/source/js/vendor/modernizr.js",
+		"/Users/BrianLachniet/Developer/Learn/mid/source/index.html.erb",
+		"/Users/BrianLachniet/Developer/mlachniet.com/index.html",
+		"/Users/BrianLachniet/Developer/mlachniet.com/css/main.css",
+		"/Users/BrianLachniet/Developer/mlachniet.com/humans.txt",
+		"/Users/BrianLachniet/Developer/mlachniet.com/README.md",
+		"/Users/BrianLachniet/Developer/lachdown/untitled.sublime-project",
+		"/Users/BrianLachniet/Developer/lachdown/lachdown.sublime-project",
+		"/Users/BrianLachniet/Developer/lachdown/lachdown/templates/index.html",
+		"/Users/BrianLachniet/Developer/lachdown/lachdown/views.py",
+		"/Users/BrianLachniet/Developer/lachdown/lachdown/api.py",
+		"/Users/BrianLachniet/Developer/lachdown/lachdown/modem.py",
+		"/Users/BrianLachniet/Developer/flaskr/schema.sql",
+		"/Users/BrianLachniet/Developer/flaskr/flaskr.py",
+		"/Users/BrianLachniet/Developer/flaskr/flaskr_tests.py",
+		"/Users/BrianLachniet/Developer/lachdown.py",
+		"/Users/BrianLachniet/Developer/test.cs",
+		"/Users/BrianLachniet/.ssh/id_rsa.pub",
+		"/Users/BrianLachniet/Developer/flaskr/templates/layout.html",
+		"/Users/BrianLachniet/Developer/flaskr/templates/show_entries.html",
+		"/Users/BrianLachniet/Developer/flaskr/static/style.css",
+		"/Users/BrianLachniet/Developer/flaskr/templates/login.html",
+		"/Users/BrianLachniet/Developer/lachdown/lachdown.py",
+		"/Users/BrianLachniet/Developer/lachdown/templates/index.html",
+		"/Users/BrianLachniet/Developer/lachdown/templates/_header.html",
+		"/Users/BrianLachniet/Developer/lachdown/templates/_footer.html",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/blog/index.html",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/less/bootstrap/variables.less",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/less/main.less",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/less/bootstrap/mixins.less",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/less/bootstrap/scaffolding.less",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/_layouts/default.html",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/_posts/2013-01-01-TestPost.md",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/_posts/2013-12-16-read-open-files-c.md",
+		"/Users/BrianLachniet/Downloads/ThrivingOnThriftyemailsubscribers.csv",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/_layouts/post.html",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/Gruntfile.js",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/index.html",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/_includes/head.html",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/less/bootstrap/bootstrap.less",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/css/bootstrap.css",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/_config.yml",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/blachniet.github.io.sublime-project",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/blachniet.github.io.sublime-workspace",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/blog/2013-12-16-force-bundling-optimizations.md",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/node_modules/grunt-contrib-less/test/fixtures/style.less",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/css/main.css",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/_layouts/simpler.html",
+		"/Applications/MAMP/htdocs/wp-content/themes/wordstrap/footer.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/ambercolored/header.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/ambercolored/library/bones.php",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/package.json",
+		"/Users/BrianLachniet/Developer/blachniet.github.io/README.md",
+		"/Applications/MAMP/htdocs/wp-content/themes/wordstrap/functions.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/ambercolored/README.md",
+		"/Applications/MAMP/htdocs/wp-content/themes/ambercolored/page.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/ambercolored/page-custom.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/wordstrap/library/css/flexslider.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/wordstrap/library/js/jquery.flexslider-min.js",
+		"/Applications/MAMP/htdocs/wp-content/themes/ambercolored/library/css/flexslider.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/wordstrap/page.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/wordstrap/comments.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/ambercolored/Gruntfile.js",
+		"/Applications/MAMP/htdocs/wp-content/themes/ambercolored/library/less/app.less",
+		"/Applications/MAMP/htdocs/wp-content/themes/ambercolored/library/less/style.less",
+		"/Applications/MAMP/htdocs/wp-content/themes/ambercolored/functions.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/ambercolored/library/css/app.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/ambercolored/library/css/style.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/ambercolored/style.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/ambercolored/package.json",
+		"/Applications/MAMP/htdocs/wp-content/themes/bones/style.css",
+		"/Users/BrianLachniet/Downloads/eddiemachado-bones-4e37f08/library/scss/style.scss",
+		"/Applications/MAMP/htdocs/wp-config.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/wordstrap/README.md",
+		"/Applications/MAMP/htdocs/wp-content/themes/wordstrap/library/js/jquery.flexslider.js",
+		"/Users/BrianLachniet/Developer/Learn/exp/app.js",
+		"/Users/BrianLachniet/Developer/Learn/angular-fullstack/bower.json",
+		"/Users/BrianLachniet/Developer/ang/app/views/main.html",
+		"/Users/BrianLachniet/Developer/ang/app/scripts/controllers/main.js",
+		"/Users/BrianLachniet/Developer/ang/Gruntfile.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"wordstrap/**/*",
+			"ambercolored/**/*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"helpers",
+			"Q.",
+			"</p>",
+			"<p>",
+			"transition",
+			"fav",
+			"009900",
+			"contact",
+			"footer",
+			"hr /",
+			"hr",
+			"ml-row",
+			"scouting",
+			"2014",
+			"tel:",
+			"contact",
+			"table",
+			"bootstrap",
+			";",
+			"add",
+			"^      ",
+			"^    ",
+			"Pending Verification",
+			"link",
+			"background-color",
+			"backg",
+			"body-bg",
+			"background",
+			"less",
+			"fa-3x",
+			"jquery",
+			"bootstrap-theme",
+			"script",
+			"image",
+			"bg_",
+			"images",
+			"image",
+			"add_shortcode",
+			"ws-flex",
+			"wsflex",
+			"ws_flex",
+			"ws_flexslider",
+			"ws-flexslider",
+			"wsflexslider",
+			"flexslider",
+			"flex",
+			"flexslider",
+			"print",
+			"style.css",
+			"css",
+			"bower_components",
+			"scope",
+			"server"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"    ",
+			"  "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "rivercityfloor.com.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"config",
+				"config.rb"
+			],
+			[
+				"ind",
+				"source/index.html.markdown"
+			],
+			[
+				"main",
+				"source/css/main.css.scss"
+			],
+			[
+				"layou",
+				"source/layouts/layout.erb"
+			],
+			[
+				"read-op",
+				"_posts/2013-12-16-read-open-files-c.md"
+			],
+			[
+				"defau",
+				"_layouts/default.html"
+			],
+			[
+				"blog/inde",
+				"blog/index.html"
+			],
+			[
+				"vari",
+				"less/bootstrap/variables.less"
+			],
+			[
+				"main.le",
+				"less/main.less"
+			],
+			[
+				"posts/",
+				"_posts/2013-01-01-TestPost.md"
+			],
+			[
+				"read-ope",
+				"_posts/2013-12-16-read-open-files-c.md"
+			],
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"defautl",
+				"_layouts/default.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"layout",
+				"_layouts/default.html"
+			],
+			[
+				"var",
+				"less/bootstrap/variables.less"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"bootstrap.less",
+				"less/bootstrap/bootstrap.less"
+			],
+			[
+				"testp",
+				"_posts/2013-01-01-TestPost.md"
+			],
+			[
+				"main.less",
+				"less/main.less"
+			],
+			[
+				"styl",
+				"node_modules/grunt-contrib-less/test/fixtures/style.less"
+			],
+			[
+				"main.css",
+				"css/main.css"
+			],
+			[
+				"default",
+				"blachniet.github.io/_layouts/default.html"
+			],
+			[
+				"grunt",
+				"blachniet.github.io/Gruntfile.js"
+			],
+			[
+				"bon",
+				"ambercolored/library/bones.php"
+			],
+			[
+				"packag",
+				"package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 154.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
