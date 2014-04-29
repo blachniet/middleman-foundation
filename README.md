@@ -1,6 +1,6 @@
 # Middleman-Foundation #
 
-The following describes how I set up this repository using Middleman's HTML5 Boilerplate template and adding [Foundation](http://foundation.zurb.com). The [Middleman Skeleton for Zurb Foundation](https://github.com/axyz/middleman-zurb-foundation) was used as a guide for building this guide, and is great if you don't want to have to do this all yourself.
+The following describes how I added [Zurb's Foundation](http://foundation.zurb.com) to the Middleman HTML5 Boilerplate template. The [Middleman Skeleton for Zurb Foundation](https://github.com/axyz/middleman-zurb-foundation) was used as a guide for building this guide, and is great if you don't want to have to do this all yourself.
 
 ## Middleman Template and Bower Setup ##
 
