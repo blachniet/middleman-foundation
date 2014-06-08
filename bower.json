@@ -13,5 +13,8 @@
     "source/bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "foundation": "~5.2.3"
+  }
 }
