@@ -31,7 +31,7 @@ Initialize bower for the project.
 Install [Foundation](http://foundation.zurb.com).
 
 ```bash
-> bower install foundation
+> bower install foundation --save
 ```
 
 Add the Compass configuration to `config.rb`.
